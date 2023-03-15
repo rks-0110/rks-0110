@@ -6,8 +6,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rks-0110&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
  
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kazuhitonakayama&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"" />
+ <a href="https://github.com/rks-0110/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.rks-0110.vercel.app/api/top-langs/?username=rks-0110&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"" />
 </a>
 
 
