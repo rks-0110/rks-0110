@@ -1,3 +1,18 @@
+
+  <a target = "blank" href="https://www.instagram.com/l_hiroshi_s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a target = "blank" href="https://discord.gg/388145530171293696" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+  <a target = "blank" href = "mailto:lhshihomatsu.trabalho@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a target = "blank" href="https://www.linkedin.com/in/lucas-shihomatsu-8783491a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ </div>
+</body>
+ 
+ <!--target="_blank" does not work on github? seens like not there might be a way of doing so with actions thought-->
+ [![rks-0110's GitHub stats](https://github-readme-stats.vercel.app/api?username=rks-0110&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rks-0110&size_weight=1&langs_count=5&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![rks-0110's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rkss)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 <body>
   <div align="center">
@@ -27,14 +42,3 @@
   <!--
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   -->
-  <a target = "blank" href="https://www.instagram.com/l_hiroshi_s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a target = "blank" href="https://discord.gg/388145530171293696" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  <a target = "blank" href = "mailto:lhshihomatsu.trabalho@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a target = "blank" href="https://www.linkedin.com/in/lucas-shihomatsu-8783491a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- </div>
-</body>
- 
- <!--target="_blank" does not work on github? seens like not there might be a way of doing so with actions thought-->
- [![rks-0110's GitHub stats](https://github-readme-stats.vercel.app/api?username=rks-0110&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rks-0110&size_weight=1&langs_count=5&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
