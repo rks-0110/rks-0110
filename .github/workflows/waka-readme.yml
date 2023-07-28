@@ -15,7 +15,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # meta
           API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: athul/athul
+          REPOSITORY: rks-0110/rks-0110
           # content
           SHOW_TITLE: true
           LANG_COUNT: 10
@@ -31,4 +31,3 @@ jobs:
           COMMITTER_EMAIL: action-bot@github.org
           AUTHOR_NAME: Athul
           AUTHOR_EMAIL: athul@example.org
-          # you can populate email-id with secretes instead
