@@ -11,6 +11,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rks-0110&size_weight=1&langs_count=5&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![rks-0110's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rkss)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!--
