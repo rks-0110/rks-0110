@@ -12,6 +12,18 @@
 [![rks-0110's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rkss)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 22 July 2023 - To: 29 July 2023
+
+Total Time: 5 hrs 37 mins
+
+XML      3 hrs 30 mins   ███████████████▓░░░░░░░░░   62.55 %
+Kotlin   1 hr 42 mins    ███████▓░░░░░░░░░░░░░░░░░   30.29 %
+JSON     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+YAML     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+```
+
 <!--END_SECTION:waka-->
 
 
