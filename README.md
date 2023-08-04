@@ -11,21 +11,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rks-0110&size_weight=1&langs_count=5&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![rks-0110's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rkss)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
+<!-- para adicionar wakatime
+START_SECTION:waka
+END_SECTION:waka
+-->
 
-```txt
-From: 26 July 2023 - To: 02 August 2023
 
-Total Time: 17 hrs 33 mins
 
-Kotlin   10 hrs 1 min    ██████████████▒░░░░░░░░░░   57.05 %
-XML      6 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   36.78 %
-JSON     1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Java     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
-<!--END_SECTION:waka-->
 
 
 <!--
